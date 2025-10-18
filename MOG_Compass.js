@@ -157,7 +157,7 @@ English Help Translator: munokura
 This is an unofficial English translation of the plugin help,
 created to support global RPG Maker users.
 Feedback is welcome to improve translation quality
-(see: https://github.com/munokura/Moghunter-MZ-plugins ).
+(see: https://github.com/munokura/MOG-MZ-plugins ).
 Original plugin by Moghunter.
 Please check the URL below for the latest version of the plugin.
 URL https://mogplugins.com
